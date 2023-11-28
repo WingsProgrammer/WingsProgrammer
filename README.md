@@ -1,4 +1,4 @@
-assets/header.jpg
+![](header.jpg)
 <h1 align="center">Hi there, I'm Wings Programmer 👋</h1>
 
 **Software engineer with a focus on backend development and distributed systems. On top of cutting-edge technologies, I have experience designing and implementing resilient, scalable, and maintainable systems using C#, .NET, Node Js. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I enjoy learning, sharing, and facing challenges. I am also passionate about open-source. As a manager, it is essential that you keep up with new technologies, systems, and languages in a real-world environment to be an effective manager. When you are a Team Lead, you will sometimes have to deal with stress, and system failures make this even worse. Plan ahead and create a team that can handle crises (which will occur).**
